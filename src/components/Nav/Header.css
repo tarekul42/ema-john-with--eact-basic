@@ -1,6 +1,7 @@
 nav.header a{
     text-decoration: none;
     color: white;
+    margin-left: 24px;
 }
 nav.header a:hover{
     color: orange;
